@@ -48,10 +48,7 @@
 git clone https://github.com/Connie0122/AI-Career-Assistant.git
 cd AI-Career-Assistant
 
-# 一键安装（Windows）
-run.bat
-
-# 或手动安装
+手动安装
 pip install -r requirements.txt
 streamlit run career_ai.py
 ```
@@ -150,7 +147,7 @@ furnished to do so, subject to the following conditions:
 ### 项目维护者
 - **姓名**：Connie
 - **邮箱**：yu_kangning@outlook.com
-- **GitHub**: [@your-username](https://github.com/your-username)
+- **GitHub**:https://github.com/Connie0122/AI-Career-Assistant.git
 
 ### 反馈与支持
 - 📧 **问题反馈**：通过GitHub Issues提交

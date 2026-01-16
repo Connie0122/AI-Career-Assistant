@@ -27,15 +27,11 @@
 
 ## 🎥 运行效果
 
-### 主界面展示
-![主界面](https://via.placeholder.com/800x450/4A90E2/FFFFFF?text=AI+Career+Assistant+Demo)
-
-### 功能模块截图
-| 智能对话 | 岗位匹配 | 学习路径 | 模拟面试 |
-|----------|----------|----------|----------|
-| ![对话](https://via.placeholder.com/300x200/4A90E2/FFFFFF?text=Chat) | ![匹配](https://via.placeholder.com/300x200/34D058/FFFFFF?text=Matching) | ![学习](https://via.placeholder.com/300x200/FB923C/FFFFFF?text=Learning) | ![面试](https://via.placeholder.com/300x200/EF4444/FFFFFF?text=Interview) |
-
-### 📹 [点击观看演示视频](https://example.com/demo-video) *(虚拟链接)*
+<p align="center">
+  <img src="demo.gif" alt="AI职业发展助手演示" width="800">
+  <br>
+  <em>完整功能演示</em>
+</p>
 
 ## 🚀 快速开始
 

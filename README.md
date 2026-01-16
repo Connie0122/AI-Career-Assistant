@@ -1,7 +1,7 @@
 # 🤖 AI职业发展助手 - 大学生智能职业规划平台
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)
+![Python](https://img.shields.io/badge/Python-3.14.2%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.53.0%2B-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
@@ -36,7 +36,7 @@
 ## 🚀 快速开始
 
 ### 环境要求
-- **Python 3.8+** (推荐3.9或3.10)
+- **Python 3.14.2+**
 - **pip** 包管理器
 - 现代浏览器（Chrome/Firefox/Edge）
 

@@ -6,9 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/career.png" alt="Logo" width="96">
-  <br>
-  <em>让AI成为你的职业发展伙伴</em>
+  <img src="logo.png" alt="AI Career Assistant Logo" width="350">
 </p>
 
 ## 📖 项目简介
